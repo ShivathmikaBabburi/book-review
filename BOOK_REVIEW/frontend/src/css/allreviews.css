@@ -1,0 +1,17 @@
+.reviews {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 2rem;
+  border: #005522;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #e0f1e7;
+}
+header {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--grey-100);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+}

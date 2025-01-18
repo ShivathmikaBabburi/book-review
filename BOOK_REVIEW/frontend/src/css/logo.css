@@ -1,0 +1,16 @@
+.logo-div {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  margin: 10px;
+}
+
+.logo-text {
+  font-size: 20px;
+  color: #005522;
+  font-weight: bold;
+}
